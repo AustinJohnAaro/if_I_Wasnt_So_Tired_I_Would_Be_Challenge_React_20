@@ -1,5 +1,4 @@
-import {resolveModuleName} from 'ts-pnp';
-import * as ts from 'typescript';
+
 
 
 import React, { useState } from 'react';
@@ -8,7 +7,7 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
 
-import Select from 'react-select';
+
 
 function App() {
     const [categories] = useState([
