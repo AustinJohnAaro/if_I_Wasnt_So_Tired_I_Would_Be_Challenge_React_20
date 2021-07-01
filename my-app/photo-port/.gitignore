@@ -1,34 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-
-# file 
-/tsconfig.json
-.tsconfig.json
-
 # dependencies
-
-
 /node_modules
 /.pnp
 .pnp.js
-/package.json
-/tsconfig.json
-.package.json
-.tsconfig.json
 
 # testing
 /coverage
-/package.json
-/tsconfig.json
-.package.json
-.tsconfig.json
 
 # production
 /build
-/package.json
-/tsconfig.json
-.package.json
-.tsconfig.json
 
 # misc
 .DS_Store
@@ -36,14 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.tsconfig.json
-.package.json
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-package.json*
-tsconfig.json*
-
-/package.json
-/tsconfig.json
